@@ -8,7 +8,7 @@ I'm a tech enthusiast who loves to learn about new technologies and apply them i
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, Typescript, Solidity, 
+- **Languages**: JavaScript, Typescript, Solidity, Python
 - **Frameworks/Libraries**: React, Node.js, Express.js, Ethers.js
 - **Databases**: MongoDB, MySQL
 - **Others**: Git, Docker, Azure
